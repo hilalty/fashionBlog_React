@@ -1,7 +1,7 @@
 export function Footer() {
     return (
         <div>
-        <footer>
+        <footer className="footer">
         <ul className="footerUl">
             <li><a href="...">Home</a></li>
             <li><a href="...">Women's</a></li>

@@ -3,7 +3,7 @@ import blogImage2 from "./blog-image-2.png";
 
 export function Article() {
     return (
-        <div>
+        <div className="main">
         <article>
             <h2 className="date">11/12/20</h2>
             <h2>On the Street in Brooklyn</h2>
